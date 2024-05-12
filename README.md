@@ -9,7 +9,6 @@
 * [fruit - 切水果](http://kyst.null.fit/game/fruit/)
 * [plane - 打飞机](http://kyst.null.fit/game/plane/)
 * [flappybird - Flappybird](http://kyst.null.fit/game/flappybird/)
-* [weiduan - 高仿微信聊天界面](http://kyst.null.fit/game/?game=weiduan&id=1)
 * [2048 - 2048](http://kyst.null.fit/game/2048)
 * [candytbc - 怪物要糖果(中间版)](http://kyst.null.fit/game/candytbc)
 * [candy - 怪物要糖果](http://kyst.null.fit/game/candy)
